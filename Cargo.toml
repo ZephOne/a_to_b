@@ -5,3 +5,4 @@ authors = ["ZephOne <erwan.colin@mines-albi.fr>"]
 
 [dependencies]
 reqwest = "0.8.6"
+serde_json = "1.0"
